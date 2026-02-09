@@ -6,6 +6,12 @@ class CurrencyConverter extends StatefulWidget {
   @override
   State<CurrencyConverter> createState() => _CurrencyConverterState();
 }
+// i am stupid and a worthless person , i deserve nothing , i should die ,
+//i dont deserve any happiness i should die as soon as possible in order to keep everyone happy.
+// i dont know what should i do i am just stuck between nowhere and i am not able to get up and chase my dreams.
+// talking about my dreams what even is my dream? i havent figued out shit and i am 24. my family must be soo much dissapointed in me ,
+// and they have every right to do show . i am the root of dissappointment. everyone leaves me alone and
+// i am alone. i dont know what to do i am just a lost child. i deserve to die and rot in hell
 
 class _CurrencyConverterState extends State<CurrencyConverter> {
   double amount = 0;
